@@ -1,0 +1,53 @@
+- StappenPlan:
+| Laat een XY array en spawn daarmee hexagons. (20 x 20 voor effe te proberen) 
+| Maak in unity een kleine terrain en export die naar een zwart / wit heightmap.
+| Gebruik de heightmap en pas hem aan om te kijken of je iets kan maken. (Photoshop)
+| Voor de hexagon array gebruik de heightmap en maak daarmee een hoogte.
+
+- ??
+
+
+| Let Op:
+- Hoe spawn ik met een array een hexagon map
+- 
+
+
+
+
+//////////////////////////// Berend mailen ////////////////////////////////////////
+
+ProefOpdracht;
+| Hexagon map met bergen, generated door een 2d dimensional array & Heightmap.
+
+Wat wil ik bereiken;
+| Een map zodat ik daarmee een 3D "Online"game kan maken. Daar kan de player dan rond lopen & iets doen.
+| (Het idee van de game heb ik nog niet bedacht)
+| Het LAN van spelers die joinen & de beweging van de Camera (player) is al gedeeltelijk af.
+| Als ik klaar ben met het map idee zou ik eerst willen kijken of het lukt of mijn speler er doorheen kan lopen. 
+| /\ Als dat is gelukt wil ik daarna ervoor zorgen dat spelers hun eige account hebben met wachtwoord & naam.
+
+Tijd;
+| 2 weken (voor 22 november af)
+
+Personen;
+| 1 (Ik alleen)
+
+Materiaal;
+| Unity, C#
+| Photoshop
+| Maya??
+
+Wat hoop ik te leren;
+| Heightmaps 
+| Hexagon Array
+| Worldbuilding
+
+Extra te doen;
+| Path (Terrain) (maak een pad dat over de bergen / terrain gaat)
+| Objects op Terrain spawnen (Bomen, platen, stenen etc.)
+| Color map (Array) (geef de map een kleur)
+
+Bronnen;
+| https://vignette.wikia.nocookie.net/hexaria-full-version/images/0/08/622EF107-A54F-495F-8F46-2686A50BA4CE.jpeg/revision/latest/scale-to-width-down/670?cb=20180421230855
+| https://www.youtube.com/watch?v=LD0O1ic5Wx8
+
